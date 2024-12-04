@@ -21,7 +21,7 @@ Before you start, make sure you have the following installed on your machine:
 - Composer
 - MySQL or any other supported database
 - Laravel (5.8 or higher)
-- Node.js (optional, for frontend build)
+
 
 ---
 
